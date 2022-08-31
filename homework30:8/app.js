@@ -166,3 +166,22 @@
 //     }
 // })
 // console.log(result);
+
+//18. 
+// var arr = [4,6,5,7,9,13]
+// let result = arr.find(function(chan){
+//     return chan%2===0;
+// })
+// console.log(result);
+
+//19.
+// var arr = prompt(`Nhap tham so`).split(",");
+// var n = 3;
+// let result = arr.find(function(arr1){
+//         return arr1%n===0;
+//     })
+//     console.log(result);
+
+//20.
+
+
